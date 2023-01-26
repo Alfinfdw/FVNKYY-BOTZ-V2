@@ -53,7 +53,7 @@
 ---------
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/ImYanXiao/Elaina-MultiDevice)](https://repl.it/github/ImYanXiao/Elaina-MultiDevice)
+[![RUN ON REPL.IT](https://replit.com/@rellzxd/Fvnkyy-Botz-V2#BACADULU.md)](https://repl.it/github/rellzxd/Fvnkyy-Botz-V2)
 ---------
 
 ## ```INFORMATION THIS BOT```
