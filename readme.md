@@ -31,7 +31,7 @@
 
 ---------  
 
-# Rest Api
+# Rest Ap
 [`APIKEY [1]`](https://api.tiodevhost.my.id)
 [`APIKEY [2]`](https://sekha.me)
 * GUNAKAN APIKEY DI ATAS GRATIS TANPA LOGIN !
