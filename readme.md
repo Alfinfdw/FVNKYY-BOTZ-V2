@@ -1,4 +1,4 @@
-## ☣️ 𝗕 𝗔 𝗖 𝗔 𝗗 𝗨 𝗟 𝗨 𝗕 𝗥 𝗢 𝗛 🥀
+## ☣️ 𝗕 𝗔 𝗖 𝗔 𝗗 𝗨 𝗟 𝗨 𝗕 𝗥 𝗢 𝗛 🐼
 > **Warning**:
 𝚂𝚌𝚛𝚒𝚙𝚝 𝚒𝚗𝚒 𝙵𝚛𝚎𝚎 𝚞𝚗𝚝𝚞𝚔 𝚂𝚎𝚖𝚞𝚊 𝙾𝚛𝚊𝚗𝚐, 𝚋𝚞𝚔𝚊𝚗 𝚞𝚗𝚝𝚞𝚔 𝙳𝚒𝚓𝚞𝚊𝚕. 𝙹𝚒𝚔𝚊 𝚍𝚒𝚓𝚞𝚊𝚕 𝚗𝚎𝚛𝚊𝚔𝚊 𝚖𝚎𝚗𝚞𝚗𝚐𝚐𝚞𝚖𝚞 𝙱𝚛𝚘𝚝𝚑𝚎𝚛 !!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -25,13 +25,13 @@
 * Penjelasan session [`Here`](https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/BACADULU.md#session-multi-auth)
 ---------
 
-# Nyari Affah Bang🗿
+# Nyari Affah Bang😳
 > Cʟɪᴄᴋ [ session disini ](https://replit.com/@tioclkp02/Sessions-Multi-Auth)
 > Sᴜʙꜱᴄʀɪʙᴇ [ here ](https://youtube.com/@FvnkyyBotz)
 
 ---------  
 
-# Rest Ap
+# Rest Api
 [`APIKEY [1]`](https://api.tiodevhost.my.id)
 [`APIKEY [2]`](https://sekha.me)
 * GUNAKAN APIKEY DI ATAS GRATIS TANPA LOGIN !
