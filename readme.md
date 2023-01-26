@@ -53,7 +53,7 @@
 ---------
 
 ## ```USER REPLIT```
-[![RUN ON REPL.IT](https://replit.com/@rellzxd/Fvnkyy-Botz-V2#BACADULU.md)](https://repl.it/github/rellzxd/Fvnkyy-Botz-V2)
+[![Run on Repl.it](https://replit.com/@rellzxd/Fvnkyy-Botz-V2#BACADULU.md)](https://repl.it/github/rellzxd/Fvnkyy-Botz-V2)
 ---------
 
 ## ```INFORMATION THIS BOT```
