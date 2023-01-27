@@ -81,10 +81,10 @@ Need Sewa Bot/Run Bot? Jika kalian membutuhkan bisa chat saya langsung ygy :)
 ## Buy Panel In This Number
 [![WHATSAPP](https://img.shields.io/badge/Panel%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84352438984)
 
+---------
+
 ## ```USER REPLIT```
 [![Run on Repl.it](https://repl.it/badge/github/rellzxd/Fvnkyy-Botz-V2)](https://repl.it/github/rellzxd/Fvnkyy-Botz-V2)
-
----------
 
 ## ```INFORMATION THIS BOT```
 | Vᴇʀꜱɪᴏɴ | Exᴘɪʀᴇᴅ |
