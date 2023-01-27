@@ -16,18 +16,18 @@ Agar terap bisa di gunakan dan tidak ada kendala seperti
     let title = `*MAU MAIN BOT?*\n*SILAHKAN...*`
     let tmb = `CLICK DISINI !`
     const sections = [ {
-	title: `BOT PRIVATE ! >-<`,
+	title: `BOT PRIVATE! ×፝֟͜×`,
 	rows: [
-	{title: `SEMUA PERINTAH...`, rowId: `.allmenu `, description: `waduhh. langsung semuanya >~<`},
-    {title: `SCRIPT`, rowId: `#sc `, description: `mau script ini? awowkakak`},
-        {title: `OWNER`, rowId: `#owner `, description: `chat yang penting-penting aja ya kak!!`},
+	{title: `ALL MENU...`, rowId: `.allmenu `, description: `waduhh. langsung semuanya >-<`},
+    {title: `SCRIPT`, rowId: `#sc `, description: `nyari affah hayoo?`},
+        {title: `OWNER`, rowId: `#owner `, description: `chat yang penting-penting aja ya kak. ;)`},
         ]
  } ]
 
 const listMessage = {
   text: title,
   mentions: [m.sender],
-  footer: '_Mau Masukin Bot Ke Group?_\nHarga *20k* (Permanent).',
+  footer: '_Mau Masukin Bot Ke Group?_\nHarga *10k* (PERMANENT)',
   buttonText: tmb,
   sections
 }
