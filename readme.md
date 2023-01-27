@@ -25,7 +25,7 @@
 * Penjelasan session [`here`](https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/BACADULU.md#session-multi-auth)
 ---------
 
-# Nyari Affah Bang😳
+# Nyari Affah Cuy?😳
 > Cʟɪᴄᴋ [ session disini ](https://replit.com/@tioclkp02/Sessions-Multi-Auth)
 > Sᴜʙꜱᴄʀɪʙᴇ [ here ](https://youtube.com/@FvnkyyBotz)
 
