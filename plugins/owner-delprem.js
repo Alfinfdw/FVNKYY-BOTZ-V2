@@ -16,7 +16,7 @@ let handler = async (m, { conn, text }) => {
 }
 handler.help = ['delprem <user>']
 handler.tags = ['owner']
-handler.command = /^(remove|hapus|-|del)prem$/i
+handler.command = /^(remove|hapus|delprem)$/i
 
 handler.owner = true
 
