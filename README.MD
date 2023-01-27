@@ -1,4 +1,4 @@
-## 📮 𝗕 𝗔 𝗖 𝗔 𝗗 𝗨 𝗟 𝗨 𝗞 𝗔 𝗪 𝗔 𝗡 𝗗 🎐
+## 📮 𝗕 𝗔 𝗖 𝗔 𝗗 𝗨 𝗟 𝗨 𝗞 𝗔 𝗪 𝗔 𝗡 𝗗 🐱
 > **Warning**:
 S𝚌𝚛𝚒𝚙𝚝 𝚒𝚗𝚒 F𝚛𝚎𝚎 𝚞𝚗𝚝𝚞𝚔 S𝚎𝚖𝚞𝚊 O𝚛𝚊𝚗𝚐, 𝚋𝚞𝚔𝚊𝚗 𝚞𝚗𝚝𝚞𝚔 D𝚒𝚓𝚞𝚊𝚕. J𝚒𝚔𝚊 𝚍𝚒𝚓𝚞𝚊𝚕 𝚗𝚎𝚛𝚊𝚔𝚊 𝚖𝚎𝚗𝚞𝚗𝚐𝚐𝚞𝚖𝚞 B𝚛𝚘𝚝𝚑𝚎𝚛 !!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -37,7 +37,7 @@ Need Sewa Bot/Run Bot? Jika kalian membutuhkan bisa chat saya langsung ygy :)
 ---------
 
 <div>
-<h2 align="center"> 💌 Mʏ Bɪᴏ 🐱 </h2>
+<h2 align="center"> 💌 Mʏ Bɪᴏ 🎐 </h2>
   <div align="center">
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
