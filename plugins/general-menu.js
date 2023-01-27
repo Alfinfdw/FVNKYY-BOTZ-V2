@@ -16,7 +16,7 @@ Agar terap bisa di gunakan dan tidak ada kendala seperti
     let title = `*MAU MAIN BOT?*\n*SILAHKAN...*`
     let tmb = `CLICK DISINI !`
     const sections = [ {
-	title: `BOT PRIVATE! ×፝֟͜×`,
+	title: `⚘ BOT PRIVATE! ×፝֟͜×`,
 	rows: [
 	{title: `ALL MENU...`, rowId: `.allmenu `, description: `waduhh. langsung semuanya >-<`},
     {title: `SCRIPT`, rowId: `#sc `, description: `nyari affah hayoo?`},
