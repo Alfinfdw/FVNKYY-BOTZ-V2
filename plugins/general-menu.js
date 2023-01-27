@@ -18,9 +18,9 @@ Agar terap bisa di gunakan dan tidak ada kendala seperti
     const sections = [ {
 	title: `⚘ BOT PRIVATE! ×፝֟͜×`,
 	rows: [
-	{title: `ALL MENU...`, rowId: `.allmenu `, description: `waduhh. langsung semuanya >-<`},
-    {title: `SCRIPT`, rowId: `#sc `, description: `nyari affah hayoo?`},
-        {title: `OWNER`, rowId: `#owner `, description: `chat yang penting-penting aja ya kak. ;)`},
+	{title: `ALL MENU BOT`, rowId: `.allmenu `, description: `waduhh. langsung semuanya >-<`},
+    {title: `SCRIPT`, rowId: `#sc `, description: `mau sc ini?`},
+        {title: `OWNER`, rowId: `#owner `, description: `chat yang penting-penting aja ya kak!`},
         ]
  } ]
 
