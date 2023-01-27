@@ -61,13 +61,10 @@ Lagi cari Sewa Bot/Run Bot? Jika kalian membutuhkan bisa chat saya langsung ygy 
 # Whatshapp Bot Multi Auth 
 * Telah menggunakan baileys multi auth.
 * Penjelasan session [`here`](https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/BACADULU.md#session-multi-auth)
----------
 
 # Nyari Affah Cuy🗿
 > Cʟɪᴄᴋ [ session disini ](https://replit.com/@tioclkp02/Sessions-Multi-Auth)
 > Sᴜʙꜱᴄʀɪʙᴇ [ here ](https://youtube.com/@FvnkyyBotz)
-
----------
 
 ## ```WhatsApp``` <a href="https://wa.me/84352438984"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/Nomor%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84352438984)
