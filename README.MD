@@ -19,7 +19,7 @@ S𝚌𝚛𝚒𝚙𝚝 𝚒𝚗𝚒 F𝚛𝚎𝚎 𝚞𝚗𝚝𝚞𝚔 S𝚎𝚖�
 <p align="center"> <img width="" src="https://img.shields.io/github/repo-size/BOTCAHX/RTXZY-MD?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor">
 
 ---------
-<h2 align="center">            📇 WELCOME 👋</h2>
+<h2 align="center">            👋 WELCOME 🦜</h2>
  <br>
 <p>
   <div align="center">
@@ -77,6 +77,7 @@ Lagi cari Sewa Bot/Run Bot? Jika kalian membutuhkan bisa chat saya langsung ygy 
 
 ## Buy Panel In This Number
 [![WHATSAPP](https://img.shields.io/badge/Panel%20Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84352438984)
+
 ---------
 
 # ```Rest Api🔥```
