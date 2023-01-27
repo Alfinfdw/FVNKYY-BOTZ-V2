@@ -34,6 +34,8 @@ Need Sewa Bot/Run Bot? Jika kalian membutuhkan bisa chat saya langsung ygy :)
 </p>
 <br>
 
+---------
+
 <div>
 <h2 align="center"> 💌 Mʏ Bɪᴏ 🐱 </h2>
   <div align="center">
