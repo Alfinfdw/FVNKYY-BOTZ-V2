@@ -14,11 +14,11 @@ Agar terap bisa di gunakan dan tidak ada kendala seperti
     let time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
     let ar = ['list', 'menu']
     let title = `*MAU MAIN BOT?*\n*SILAHKAN...*`
-    let tmb = `CLICK DISINI !`
+    let tmb = `CLICK HERE !`
     const sections = [ {
-	title: `⚘ BOT PRIVATE! ×፝֟͜×`,
+	title: `⚘ YouTube : FvnkyyBotz`,
 	rows: [
-	{title: `ALL MENU BOT`, rowId: `.allmenu `, description: `waduhh. langsung semuanya >-<`},
+	{title: `ALL FITUR BOT`, rowId: `.allmenu `, description: `waduhh. langsung semuanya xixi>-<`},
     {title: `SCRIPT`, rowId: `#sc `, description: `mau sc ini?`},
         {title: `OWNER`, rowId: `#owner `, description: `chat yang penting-penting aja ya kak!`},
         ]
