@@ -97,7 +97,7 @@ Lagi cari Sewa Bot/Run Bot? Jika kalian membutuhkan bisa chat saya langsung ygy 
 | Vᴇʀꜱɪᴏɴ | Exᴘɪʀᴇᴅ |
 | ------- | ------------------ |
 | 1.1.1   | :x: EXPIRED        |
-| 3.0     | ✅  WORK           |         
+| 3.0     | ☑️  WORK           |         
 | alpha   | :x: EXPIRED        |
 | 3.1    | :x: EXPIRED        |
 * This script is vulnerable to being suspended from certain hosting so use a hosting with a friendly level of security.
@@ -107,18 +107,18 @@ Lagi cari Sewa Bot/Run Bot? Jika kalian membutuhkan bisa chat saya langsung ygy 
 ## ```FEATURE THIS BOT```
 | Kᴇʟᴇʙɪʜᴀɴ | Cʜᴇᴄᴋ |
 |--------|--------|
-| **Sticker** |[✅](https://github.com/rellzxd)
-| **Downloader** |[✅](https://github.com/rellzxd) |
-| **Internet** |[✅](https://github.com/rellzxd) |
-| **Game** |[✅](https://github.com/rellzxd) |
-| **Rpg Games** |[✅](https://github.com/rellzxd) |
-| **Kerang Ajaib** |[✅](https://github.com/rellzxd) |
-| **Premium** |[✅](https://github.com/rellzxd)
-| **Nsfw** |[✅](https://github.com/rellzxd) |
-| **Anime** |[✅](https://github.com/rellzxd)
-| **Quotes** |[✅](https://github.com/rellzxd)
-| **Tools** |[✅](https://github.com/rellzxd)
-| **React** |[✅](https://github.com/rellzxd)
+| **Sticker** |[☑️](https://github.com/rellzxd)
+| **Downloader** |[☑️](https://github.com/rellzxd) |
+| **Internet** |[☑️](https://github.com/rellzxd) |
+| **Game** |[☑️](https://github.com/rellzxd) |
+| **Rpg Games** |[☑️](https://github.com/rellzxd) |
+| **Kerang Ajaib** |[☑️](https://github.com/rellzxd) |
+| **Premium** |[☑️](https://github.com/rellzxd)
+| **Nsfw** |[☑️](https://github.com/rellzxd) |
+| **Anime** |[☑️](https://github.com/rellzxd)
+| **Quotes** |[☑️](https://github.com/rellzxd)
+| **Tools** |[☑️](https://github.com/rellzxd)
+| **React** |[☑️](https://github.com/rellzxd)
 ---------
 
 ## LIST MENU TROUBE DISCUSSION
