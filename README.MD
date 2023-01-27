@@ -19,7 +19,53 @@ S𝚌𝚛𝚒𝚙𝚝 𝚒𝚗𝚒 F𝚛𝚎𝚎 𝚞𝚗𝚝𝚞𝚔 S𝚎𝚖�
 <p align="center"> <img width="" src="https://img.shields.io/github/repo-size/BOTCAHX/RTXZY-MD?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor">
 
 ---------
+<h2 align="center">            📇 WELCOME! 📇</h2>
+ <br>
+<p>
+  <div align="center">
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+  </div>
+</div>
+<div>
+  <br>
+<p align="center"><img src="https://img.shields.io/badge/adobe%40photoshop%40-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+Lagi cari Sewa Bot/Run Bot? Jika kalian membutuhkan bisa chat saya langsung ygy :)
+</p>
+<br>
 
+---------
+
+<div>
+<h2 align="center"> 🐱 ~ INFORMATION RELLZXD ~ 🐱 </h2>
+  <div align="center">
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+  </div>
+<li>
+   <b>Name :</b> Andika Cruel</li>
+<li>
+   <b>Umur :</b> 18 years
+</li>
+<li>
+   <b>Skils :</b> Modifikasi WhatsApp
+</li>
+<li>
+   <b>Gender :</b> Boys
+</li>
+<li>
+   <b>Hobby :</b> Turu,Coding,Ngopi,Udud
+</li>
+<br><br><br>
+</div>
+<div>
+
+---------
+# ```REST API🔥```
+[`APIKEY (1)`](https://api.tiodevhost.my.id)
+[`APIKEY (2)`](https://sekha.me)
+* GUNAKAN APIKEY DI ATAS GRATIS TANPA LOGIN !
+
+---------
 # Whatshapp Bot Multi Auth 
 * Telah menggunakan baileys multi auth.
 * Penjelasan session [`here`](https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/BACADULU.md#session-multi-auth)
