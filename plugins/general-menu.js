@@ -18,9 +18,9 @@ Agar terap bisa di gunakan dan tidak ada kendala seperti
     const sections = [ {
 	title: `⚘ YouTube : FvnkyyBotz`,
 	rows: [
-	{title: `ALL FITUR BOT`, rowId: `.allmenu `, description: `waduhh. langsung semuanya xixi>-<`},
-    {title: `SCRIPT`, rowId: `#sc `, description: `mau sc ini?`},
-        {title: `OWNER`, rowId: `#owner `, description: `chat yang penting-penting aja ya kak!`},
+	{title: `ALL MENU`, rowId: `.allmenu `, description: `◇ menampilkan semua fitur fvnkyy bot >-<`},
+    {title: `SOURCE CODE`, rowId: `#sc `, description: `◇ mau script ini?`},
+        {title: `OWNER`, rowId: `#owner `, description: `◇ chat yang penting-penting aja ya kak!`},
         ]
  } ]
 
@@ -39,8 +39,8 @@ const listMessage = {
   if (!json.image) throw json
 }
 
-handler.help = ['menu'].map((v) => v + ' <list>')
-handler.tags = ['FvnkyyBotzV2']
+handler.help = ['menu']
+handler.tags = ['FvnkyyBot-V2']
 handler.command = /^(menu|help|\?)$/i
 handler.register = false
 
