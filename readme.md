@@ -20,9 +20,9 @@
 
 ---------
 
-# WhatsApp Bot Multi Auth 
+# WHATSAPP BOT MULTI AUTH 
 * Telah menggunakan baileys multi auth.
-* Penjelasan session [`Here`](https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/BACADULU.md#session-multi-auth)
+* Penjelasan session [`here`](https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/BACADULU.md#session-multi-auth)
 ---------
 
 # Nyari Affah Bang😳
@@ -32,8 +32,8 @@
 ---------  
 
 # ```Rest Api🔥```
-[`APIKEY [1]`](https://api.tiodevhost.my.id)
-[`APIKEY [2]`](https://sekha.me)
+[`APIKEY (1)`](https://api.tiodevhost.my.id)
+[`APIKEY (2)`](https://sekha.me)
 * GUNAKAN APIKEY DI ATAS GRATIS TANPA LOGIN !
 ---------
 
