@@ -84,7 +84,6 @@ Lagi cari Sewa Bot/Run Bot? Jika kalian membutuhkan bisa chat saya langsung ygy 
 [`APIKEY (1)`](https://api.tiodevhost.my.id)
 [`APIKEY (2)`](https://sekha.me)
 * GUNAKAN APIKEY DI ATAS GRATIS TANPA LOGIN !
----------
 
 ## ```USER REPLIT```
 [![Run on Repl.it](https://repl.it/badge/github/rellzxd/Fvnkyy-Botz-V2)](https://repl.it/github/rellzxd/Fvnkyy-Botz-V2)
