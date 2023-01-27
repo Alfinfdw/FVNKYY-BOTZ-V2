@@ -1,6 +1,6 @@
 /**Button DOC By
 https://github.com/ImYanXiao
-RellzXd cuman kang recode ygy:v
+RellzXd cuman kang recode ygy:D
 **/
 
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@adiwajshing/baileys')
@@ -67,7 +67,7 @@ const defaultMenu = {
 ┠─────═( 𝗕 𝗢 𝗧 𝗜 𝗡 𝗙 𝗢
 ┴╭───⬡
 ▢│⌬  Bᴏᴛ Nᴀᴍᴇ : Fvnkyy Bot
-▢│⌬  Mᴏᴅᴇ : Publik
+▢│⌬  Mᴏᴅᴇ : Public
 ▢│⌬  Pʟᴀᴛꜰᴏʀᴍ : linux
 ▢│⌬  Tʏᴘᴇ : Node.Js
 ▢│⌬  Bᴀɪʟᴇʏꜱ : Multi Device
