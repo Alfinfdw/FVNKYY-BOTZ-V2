@@ -91,6 +91,7 @@ Lagi cari Sewa Bot/Run Bot? Jika kalian membutuhkan bisa chat saya langsung ygy 
 
 ## ```USER REPLIT```
 [![Run on Repl.it](https://repl.it/badge/github/rellzxd/Fvnkyy-Botz-V2)](https://repl.it/github/rellzxd/Fvnkyy-Botz-V2)
+
 ---------
 
 ## ```INFORMATION THIS BOT```
@@ -102,7 +103,6 @@ Lagi cari Sewa Bot/Run Bot? Jika kalian membutuhkan bisa chat saya langsung ygy 
 | 3.1    | :x: EXPIRED        |
 * This script is vulnerable to being suspended from certain hosting so use a hosting with a friendly level of security.
 * This script will continue to update until the gap for this bot will expired.
----------
 
 ## ```FEATURE THIS BOT```
 | Kᴇʟᴇʙɪʜᴀɴ | Cʜᴇᴄᴋ |
