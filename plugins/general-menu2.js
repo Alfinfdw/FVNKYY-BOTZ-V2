@@ -192,8 +192,9 @@ function _0x365d(){const _0x374eb6=['16464dkkZfS','https://telegra.ph/file/a60d6
     conn.reply(m.chat, 'Maaf, menu server sedang error', m)
     throw e
   }
-  let vn = `./mp3/Loli Toxic.mp3`
-  conn.sendFile(m.chat, vn, 'Rellz.Ganz', null, m, true, {type: 'audioMessage', ptt: true })
+let vn = `./mp3/Loli Toxic.mp3`
+conn.sendFile(m.chat, vn, 'Rellz.Ganz', null, m, true,
+{type: 'audio/mp3', ptt: true })
 }
 handler.help = ['allmenu']
 handler.tags = ['fvnkyy']
