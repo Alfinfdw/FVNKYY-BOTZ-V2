@@ -73,7 +73,7 @@ Need Sewa Bot/Run Bot? Jika kalian membutuhkan bisa chat saya langsung ygy :)
 ## ``CONTACT RELLZXD`` <a href="https://wa.me/84352438984"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/Nomor%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84352438984)
 [![GROUP OFFICIAL](https://img.shields.io/badge/JOIN%20GROUP%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hu3Mnyh023QGMVhKVOFLmr)
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285876138954)
+[![ONWER](https://img.shields.io/badge/Number%20Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285876138954)
 
 ## Whatsapp Bot Hosting
 * Deploy bot mudah dan cepat dengan panel.
