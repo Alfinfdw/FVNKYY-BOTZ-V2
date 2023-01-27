@@ -17,7 +17,7 @@ S𝚌𝚛𝚒𝚙𝚝 𝚒𝚗𝚒 F𝚛𝚎𝚎 𝚞𝚗𝚝𝚞𝚔 S𝚎𝚖�
 <a href="https://github.com/HelgaIlham/ZukaBet"><img title="Base" src="https://img.shields.io/badge/BASE-Helga Zexs-green?style=for-the-badge&logo=github"></a> <a href="https://github.com/rellzxd"><img title="Recode" src="https://img.shields.io/badge/RECODE-RellzXd-green?style=for-the-badge&logo=github"></a>
 </p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FHaruka-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/graphs/commit-activity"><img height="50" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/zeeone-ofc/Haruka-Md/graphs/commit-activity"><img height="30" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align="center"> <img width="" src="https://img.shields.io/github/repo-size/BOTCAHX/RTXZY-MD?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor">
 </p>
