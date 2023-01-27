@@ -61,7 +61,7 @@ Need Sewa Bot/Run Bot? Jika kalian membutuhkan bisa chat saya langsung ygy :)
 
 ---------
 
-# WHATSHAPP BOT MULTI AUTH🎐 
+# Bot Whatsapp Multi Auth🎐 
 * Telah menggunakan baileys multi auth.
 * Penjelasan session [`here`](https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/BACADULU.md#session-multi-auth)
 
