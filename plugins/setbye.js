@@ -6,8 +6,8 @@ let handler = async (m, { conn, text, isROwner, isOwner }) => {
     m.reply('Bye berhasil diatur\n@user (Mention)')
   } else throw 'Teksnya mana?'
 }
-handler.help = ['setbye <teks>']
-handler.tags = ['owner', 'group']
+handler.help = ['setbye <text>']
+handler.tags = ['group']
 
 handler.command = /^setbye$/i
 module.exports = handler
