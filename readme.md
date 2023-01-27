@@ -1,4 +1,4 @@
-## 🎯 𝗕 𝗔 𝗖 𝗔 𝗗 𝗨 𝗟 𝗨 𝗕 𝗥 𝗢 𝗛 🎐
+## 🎯 𝗕 𝗔 𝗖 𝗔 𝗗 𝗨 𝗟 𝗨  𝗕 𝗥 𝗢 𝗛 🎐
 > **Warning**:
 𝚂𝚌𝚛𝚒𝚙𝚝 𝚒𝚗𝚒 𝙵𝚛𝚎𝚎 𝚞𝚗𝚝𝚞𝚔 𝚂𝚎𝚖𝚞𝚊 𝙾𝚛𝚊𝚗𝚐, 𝚋𝚞𝚔𝚊𝚗 𝚞𝚗𝚝𝚞𝚔 𝙳𝚒𝚓𝚞𝚊𝚕. 𝙹𝚒𝚔𝚊 𝚍𝚒𝚓𝚞𝚊𝚕 𝚗𝚎𝚛𝚊𝚔𝚊 𝚖𝚎𝚗𝚞𝚗𝚐𝚐𝚞𝚖𝚞 𝙱𝚛𝚘𝚝𝚑𝚎𝚛 !!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -25,7 +25,7 @@
 * Penjelasan session [`here`](https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/BACADULU.md#session-multi-auth)
 ---------
 
-# Nyari Affah Cuy?🗿
+# Nyari Affah Cuy🗿
 > Cʟɪᴄᴋ [ session disini ](https://replit.com/@tioclkp02/Sessions-Multi-Auth)
 > Sᴜʙꜱᴄʀɪʙᴇ [ here ](https://youtube.com/@FvnkyyBotz)
 
@@ -37,7 +37,7 @@
 * GUNAKAN APIKEY DI ATAS GRATIS TANPA LOGIN !
 ---------
 
-## ```WHATSAPP``` <a href="https://wa.me/84352438984"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+## ```WhatsApp``` <a href="https://wa.me/84352438984"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/Nomor%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84352438984)
 [![GROUP OFFICIAL](https://img.shields.io/badge/Group%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hu3Mnyh023QGMVhKVOFLmr)
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285876138954)
@@ -45,7 +45,7 @@
 ---------
 
 ## Whatsapp Bot Hosting
-* Deploy bot mudah dan cepat dengan panel!
+* Deploy bot mudah dan cepat dengan panel.
 ---------
 
 ## Buy Panel In This Number
