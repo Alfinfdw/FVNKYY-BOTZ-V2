@@ -19,7 +19,7 @@ S𝚌𝚛𝚒𝚙𝚝 𝚒𝚗𝚒 F𝚛𝚎𝚎 𝚞𝚗𝚝𝚞𝚔 S𝚎𝚖�
 <p align="center"> <img width="" src="https://img.shields.io/github/repo-size/BOTCAHX/RTXZY-MD?color=red&label=Repo%20Size&style=for-the-badge&logo=appveyor">
 
 ---------
-<h2 align="center">            📇 WELCOME! 📇</h2>
+<h2 align="center">            📇 WELCOME 👋</h2>
  <br>
 <p>
   <div align="center">
@@ -58,6 +58,7 @@ Lagi cari Sewa Bot/Run Bot? Jika kalian membutuhkan bisa chat saya langsung ygy 
 <div>
 
 ---------
+
 # Whatshapp Bot Multi Auth 
 * Telah menggunakan baileys multi auth.
 * Penjelasan session [`here`](https://github.com/BOTCAHX/RTXZY-MD/blob/v3.0/BACADULU.md#session-multi-auth)
