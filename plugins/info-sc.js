@@ -1,7 +1,7 @@
 let handler = async (m, { conn }) => {
 let ye = `@${m.sender.split`@`[0]}`
 let esce = `
-Ngak Ada!😜
+🎐Sc Fvnkyy-V2 Only Private Kak!
 `
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
