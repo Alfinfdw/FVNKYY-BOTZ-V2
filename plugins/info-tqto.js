@@ -85,4 +85,5 @@ conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { extern
 handler.help = ['tqto']
 handler.tags = ['main','info']
 handler.command = /^(credits|credit|thanks|thanksto|tqto)$/i
-export def handler
+
+module.exports = handler
