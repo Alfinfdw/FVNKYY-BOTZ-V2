@@ -3,31 +3,31 @@
 //untuk lainya saran jangan di ubah bre nanti eror
 
 //Global Owner//
-global.owner = ['6285876138954']  // isi jika perlu
-global.mods = ['84352438984']   // isi jika perlu
-global.prems = ['84352438984']  // isi jika perlu
+global.owner = ['447971533162']  // isi jika perlu
+global.mods = ['447971533162']   // isi jika perlu
+global.prems = ['447971533162']  // isi jika perlu
 
 //Nomor Owner & payment//
 global.nameowner = 'Andika Store' // isi nama kalian bebas
-global.numberowner = '6285876138954' // isi ini untuk mengendalikan bot
+global.numberowner = '447971533162' // isi ini untuk mengendalikan bot
 global.dana = '-' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '085876138954' // isi dengan nomor pulsa hp kalian
+global.pulsa = '085608468994' // isi dengan nomor pulsa hp kalian
 global.gopay = '-'
 
 //Nama Bot & Grouplink//
-global.namebot = 'Fvnkyy Botz'
+global.namebot = 'PSHT Botz'
 global.gc = 'https://chat.whatsapp.com/Hu3Mnyh023QGMVhKVOFLmr'
-global.web = 'https://youtube.com/@FvnkyyBotz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.instagram = 'https://instagram.com/rellz.fvnkyy'
+global.web = 'https://youtube.com/@PSHTBotz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.instagram = 'https://instagram.com/pshtsurabaya'
 
 //Tampilan wm Bot dan pesan bot//
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© Fvnkyy Botz'
+global.zenzkey = 'Ba' //ganti jadi apikey lu kalau expired
+global.wm = '© PSHT'
 global.watermark = wm
 global.wm2 = '⻝ 𝗙𝘃𝗻𝗸𝘆𝘆𝗕𝗼𝘁𝘇 ×፝֟͜×'
-global.wm3 = '© Fvnkyy Botz'
-global.wm4 = '© Andika-Dev'
+global.wm3 = '© PSHT'
+global.wm4 = '© Dim-Dev'
 global.fla = 'https://botcahx.ddns.net/api/photooxy/harry-potter?text='
 global.wait = '*「▰▰▰▱▱▱▱▱」* 𝙬𝙖𝙞𝙩! 𝙞𝙣 𝙥𝙧𝙤𝙘𝙚𝙨𝙨...'
 global.eror = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
