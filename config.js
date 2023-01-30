@@ -8,7 +8,7 @@ global.mods = ['447971533162']   // isi jika perlu
 global.prems = ['447971533162']  // isi jika perlu
 
 //Nomor Owner & payment//
-global.nameowner = 'Andika Store' // isi nama kalian bebas
+global.nameowner = 'DimSam Store' // isi nama kalian bebas
 global.numberowner = '447971533162' // isi ini untuk mengendalikan bot
 global.dana = '-' // isi dengan nomor dana yg kamu punya 
 global.pulsa = '085608468994' // isi dengan nomor pulsa hp kalian
@@ -22,7 +22,7 @@ global.instagram = 'https://instagram.com/pshtsurabaya'
 
 //Tampilan wm Bot dan pesan bot//
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'Ba' //ganti jadi apikey lu kalau expired
+global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© PSHT'
 global.watermark = wm
 global.wm2 = '⻝ 𝗙𝘃𝗻𝗸𝘆𝘆𝗕𝗼𝘁𝘇 ×፝֟͜×'
